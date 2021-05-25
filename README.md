@@ -1,10 +1,29 @@
 ### Bem vindes ao meu Github 👋
 
-Sou estudante do Bacharelado em Ciência de Dados na Univesp e atuo como Engenheira de Tecnologia no Itaú Unibanco SA. <img src="https://accendadigital.com.br/wp-content/uploads/2020/11/big-data.jpg">
+Sou estudante do Bacharelado em Ciência de Dados na Univesp e atuo como Engenheira de Tecnologia no Itaú Unibanco SA. 🥇
+
 - 🔭 Ando trabalhando com linguagens de baixa plataforma.
 - 🌱 Estou aprendendo sobre Engenharia de Dados para futura transição.
 - 🤝 Pretendo compartilhar conhecimento atual nas linguagens Java e Kotlin. 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lilianeangelo)
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lilieangelo) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@liliane.angelomartins)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/liliane-angelo-4828ba174/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lilie.angelo/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Lilie.Martins)
+
+
+## 🚀💻Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+## ⚡ GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lilianeangelo&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianeangelo&hide=TeX&layout=compact)
