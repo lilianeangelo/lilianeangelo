@@ -1,9 +1,9 @@
 ### Bem vindes ao meu Github 👋
 
-Sou estudante do Bacharelado em Ciência de Dados na Univesp e atuo como Engenheira de Tecnologia no Itaú Unibanco SA.
+Sou estudante do Bacharelado em Ciência de Dados na Univesp e atuo como Engenheira de Tecnologia no Itaú Unibanco SA. <img src="https://accendadigital.com.br/wp-content/uploads/2020/11/big-data.jpg">
 - 🔭 Ando trabalhando com linguagens de baixa plataforma.
 - 🌱 Estou aprendendo sobre Engenharia de Dados para futura transição.
-- 🤝 Pretendo copartilhar conhecimento atual nas linguagens Java e Kotlin. 
+- 🤝 Pretendo compartilhar conhecimento atual nas linguagens Java e Kotlin. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lilianeangelo)
 
