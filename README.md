@@ -16,6 +16,7 @@ Sou estudante do Bacharelado em Ciência de Dados na Univesp e atuo como Engenhe
 ![Kotlin](https://img.shields.io/badge/-Kotlin-lilac?style=flat-square&logo=Kotlin)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![gRPC](https://img.shields.io/badge/-gRPC-lilac?style=flat-square&logo=gRPC)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
