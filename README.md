@@ -13,6 +13,7 @@ Sou estudante do Bacharelado em Ciência de Dados na Univesp e atuo como Engenhe
 ## 🚀💻Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-lilac?style=flat-square&logo=Kotlin)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
