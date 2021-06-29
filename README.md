@@ -1,6 +1,6 @@
 ### Bem vindes ao meu Github 👋
 
-Sou estudante do Bacharelado em Ciência de Dados na Univesp e atuo como Engenheira de Tecnologia no Itaú Unibanco SA. 🥇
+Sou estudante do Bacharelado em Tecnologia da Informação na Univesp e atuo como Engenheira de Tecnologia no Itaú Unibanco SA. 🥇
 
 - 🔭 Ando trabalhando com linguagens de baixa plataforma.
 - 🌱 Estou aprendendo sobre Engenharia de Dados para futura transição.
