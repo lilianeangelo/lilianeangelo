@@ -3,7 +3,7 @@
 Sou estudante do Bacharelado em Tecnologia da Informação na Univesp e atuo como Engenheira de Tecnologia no Itaú Unibanco SA. 🥇
 
 - 🔭 Ando trabalhando com linguagens de baixa plataforma.
-- 🌱 Estou aprendendo sobre Engenharia de Dados para futura transição.
+- 🌱 Estou aprendendo sobre Engenharia de DevOps/SRE para futura transição.
 - 🤝 Pretendo compartilhar conhecimento atual nas linguagens Java e Kotlin. 
 
 
