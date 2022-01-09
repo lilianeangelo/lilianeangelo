@@ -14,6 +14,7 @@ Sou estudante do Bacharelado em Tecnologia da Informação na Univesp e atuo com
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-lilac?style=flat-square&logo=Kotlin)
+![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
