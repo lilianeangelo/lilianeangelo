@@ -1,9 +1,9 @@
 ### Bem vindes ao meu Github 👋
 
-Sou estudante do Bacharelado em Tecnologia da Informação na Univesp e atuo como Engenheira de Tecnologia no Itaú Unibanco SA. 🥇
+Sou estudante do Tecnologia da Análise e Desenvolvimento de Sistemas na FATEC Ipiranga e atuo como Engenheira DevOps em PicPay SA. 🥇
 
 - 🔭 Ando trabalhando com linguagens de baixa plataforma.
-- 🌱 Estou aprendendo sobre Engenharia de DevOps/SRE para futura transição.
+- 🌱 Estou aprendendo sobre Engenharia de DevOps/SRE efetivando minha transição.
 - 🤝 Pretendo compartilhar conhecimento atual nas linguagens Java e Kotlin. 
 
 
