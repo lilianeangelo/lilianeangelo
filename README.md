@@ -14,7 +14,6 @@ Sou estudante do Tecnologia da Análise e Desenvolvimento de Sistemas na FATEC I
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-lilac?style=flat-square&logo=Kotlin)
-![Flutter](https://img.shields.io/badge/-FLutter-blue?style=flat-square&logo=flutter)
 ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
