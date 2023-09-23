@@ -1,9 +1,9 @@
 ### Bem vindes ao meu Github 👋
 
-Sou estudante do Tecnologia da Análise e Desenvolvimento de Sistemas na FATEC Ipiranga e atuo como SRE no C6 Bank SA. 🥇
+Sou estudante do Tecnologia da Análise e Desenvolvimento de Sistemas na FATEC Ipiranga e atuo como DevOps Engineer na Docshifter. 🥇
 
 - 🔭 Ando trabalhando com linguagens de baixa plataforma.
-- 🌱 Estou aprendendo sobre Engenharia de DevOps/SRE efetivando minha transição.
+- 🌱 Estou atuando na área de DevOps.
 - 🤝 Pretendo compartilhar conhecimento atual nas linguagens Python e Golang. 
 
 
