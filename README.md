@@ -1,10 +1,10 @@
 ### Bem vindes ao meu Github 👋
 
-Sou estudante do Tecnologia da Análise e Desenvolvimento de Sistemas na FATEC Ipiranga e atuo como DevOps Engineer na Docshifter. 🥇
+ Cursando MBA em DevOps, Automation & Cloud Strategy na FIAP e atuo como Analista de Infraestrutura no Grupo Carrefour Brasil. 🥇
 
-- 🔭 Ando trabalhando com linguagens de baixa plataforma.
-- 🌱 Estou atuando na área de DevOps.
-- 🤝 Pretendo compartilhar conhecimento atual nas linguagens Python e Shell. 
+- 🔭 Ando trabalhando e estudando ferramentas de IA Generativa.
+- 🌱 Estou atuando na área de DevSecOps.
+- 🤝 Pretendo compartilhar conhecimento e colaborar para desenvolvimento de práticas seguras na entrega de software. 
 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lileangelo) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@liliane.angelomartins)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/liliane-angelo) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lile.angelo/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Lilie.Martins)
@@ -28,6 +28,8 @@ Sou estudante do Tecnologia da Análise e Desenvolvimento de Sistemas na FATEC I
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBUcket](https://img.shields.io/badge/-BitBucket-white?style=flat-square&logo=bitbucket)
+![Gemini](https://img.shields.io/badge/-Gemini-white?style=flat-square&logo=gemini)
+![OpenAI](https://img.shields.io/badge/-OpenAI-white?style=flat-square&logo=openai)
 
 ## ⚡ GitHub Stats
 
